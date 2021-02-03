@@ -1,0 +1,2 @@
+-Die Miso Mosi Leitungen zum ENC28J60 müssen gedreht werden.
+-Eine Brücke am FT232RL zwischen bin 25 und 26 (Test pin an Masse)
